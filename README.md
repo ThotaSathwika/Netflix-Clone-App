@@ -28,13 +28,6 @@ A modern and responsive Netflix Clone built using Antigravity AI as part of the 
 │   ├── banners/
 │   └── movie-posters/
 
-## 📸 Demo
-
-Add your screenshots or demo video here.
-
-## 🔗 GitHub Repository
-
-Add your GitHub repository link here.
 
 ## 📱 Responsive Design
 
@@ -56,6 +49,4 @@ The application is fully responsive and works seamlessly across:
 This project was developed as part of the internship program conducted by 
 Pantech eLearning and SVNIT.
 
-## 📌 Tags
 
-#pantechelearning #svnit #guhan #netflixcloneproject
